@@ -1,0 +1,13 @@
+[27-May-2018 03:27:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home4/prajwalv/public_html/PasswordManager/admin/search.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/prajwalv/public_html/PasswordManager/admin/search.php on line 19
+[27-May-2018 03:27:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home4/prajwalv/public_html/PasswordManager/admin/search.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/prajwalv/public_html/PasswordManager/admin/search.php on line 19
+[27-May-2018 03:28:26 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/prajwalv/public_html/PasswordManager/admin/search.php on line 19
+[27-May-2018 03:31:06 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/prajwalv/public_html/PasswordManager/admin/search.php on line 19
+[27-May-2018 03:31:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/prajwalv/public_html/PasswordManager/admin/search.php on line 24
+[27-May-2018 03:31:10 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/prajwalv/public_html/PasswordManager/admin/search.php on line 19
+[27-May-2018 03:31:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/prajwalv/public_html/PasswordManager/admin/search.php on line 24

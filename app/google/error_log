@@ -1,0 +1,1 @@
+[07-May-2018 05:57:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/prajwalv/public_html/app/google/gauth.php:26) in /home4/prajwalv/public_html/app/google/gauth.php on line 32

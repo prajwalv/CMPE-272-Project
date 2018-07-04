@@ -1,0 +1,170 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.business-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/background.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.accommodation-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/accommodation.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.canteen-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/canteen.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.career-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/career-counsellor.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.health-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/health-care.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.library-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/library.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.parking-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/parking.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.recreation-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/recreation.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.sports-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/sports.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.student-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/student-union.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.workshop-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/workshop.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.service-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/service.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.contact-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/staff.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.display-users {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/users.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+.users {
+  height: 50vh;
+  min-height: 300px;
+  background: url('http://prajwalvenkatesh.com/img/background.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center center;
+}
+
+.card {
+  height: 100%;
+}

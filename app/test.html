@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>jQuery Hello World</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+ 	$.ajax({
+	  method: 'GET',
+	  url: "http://setmeon.com/getrecentviewed.php",
+	  cache: false,
+	  xhrFields: {
+         withCredentials: true
+    	},
+    crossDomain: true,
+	  success: function(response) {
+	    // Data
+	    // var data = response.data.data;
+	    console.log(response);
+	  }
+	});
+});
+
+</script>
+
+This is Hello World by HTML
+
+<div id="msgid">
+</div>
+
+</body>
+</html>
